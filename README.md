@@ -1,6 +1,6 @@
 # woowa_notion
-## front_end
+### front_end
 - typescript + CRA
 
-## back_end
-- typescript + express
+### back_end
+- typescript + express + mongoDB
